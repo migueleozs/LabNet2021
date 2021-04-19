@@ -1,0 +1,7 @@
+D:\Projects\Tp3-Excepcions\Tp3-Excepcions\bin\Debug\Tp3-Excepcions.exe.config
+D:\Projects\Tp3-Excepcions\Tp3-Excepcions\bin\Debug\Tp3-Excepcions.exe
+D:\Projects\Tp3-Excepcions\Tp3-Excepcions\bin\Debug\Tp3-Excepcions.pdb
+D:\Projects\Tp3-Excepcions\Tp3-Excepcions\obj\Debug\Tp3-Excepcions.csprojAssemblyReference.cache
+D:\Projects\Tp3-Excepcions\Tp3-Excepcions\obj\Debug\Tp3-Excepcions.csproj.CoreCompileInputs.cache
+D:\Projects\Tp3-Excepcions\Tp3-Excepcions\obj\Debug\Tp3-Excepcions.exe
+D:\Projects\Tp3-Excepcions\Tp3-Excepcions\obj\Debug\Tp3-Excepcions.pdb
